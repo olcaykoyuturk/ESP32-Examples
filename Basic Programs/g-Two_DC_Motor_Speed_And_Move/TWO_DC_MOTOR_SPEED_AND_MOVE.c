@@ -75,7 +75,7 @@ void moveForward() {
 
 void moveBackward() {
   digitalWrite(PIN_IN1, LOW);
-  digitalWrite(PIN_IN2, HIGH); // 2 motor geri gitmiyor
+  digitalWrite(PIN_IN2, HIGH);
   digitalWrite(PIN_IN3, LOW);
   digitalWrite(PIN_IN4, HIGH);
 }
