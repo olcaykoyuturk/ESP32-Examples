@@ -1,4 +1,4 @@
-# ESP32-Project
+# ESP32-Examples
 
 Merhaba! Bu GitHub deposunda yaptığım küçük Arduino projelerini paylaşıyorum. Aşağıda projelerin listesi ve kısa açıklamalarını bulabilirsiniz.
 
